@@ -35,4 +35,4 @@ predictions = model.predict(x2)
 
 # Print the results
 print("Predictions:", predictions)
-print("Test loss:", test_loss)
+
